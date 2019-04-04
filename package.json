@@ -1,0 +1,16 @@
+{
+  "name": "new-folder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/styled-components": "^4.1.12",
+    "styled-components": "^4.2.0",
+    "typescript": "^3.5.0-dev.20190404"
+  }
+}
